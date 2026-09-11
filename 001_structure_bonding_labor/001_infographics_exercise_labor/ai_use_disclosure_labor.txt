@@ -1,0 +1,9 @@
+AI Disclosure Statement
+
+In the preparation of this infographic assignment, I used Claude (an AI assistant by Anthropic) to assist with the following tasks:
+
+Research support: Organizing summarized chemical information (identity, structure, properties, uses, risks, and chemical engineering connections) for the selected compounds, which I then reviewed, verified, and adapted for accuracy.
+Content formatting: Converting detailed paragraph-based research into condensed, infographic-friendly bullet points and short phrases suitable for visual design.
+Design guidance: Getting suggestions for color palettes and relevant icon/element ideas to use in Canva for visual layout purposes.
+
+All final text, layout decisions, and design choices in the infographic were reviewed, edited, and finalized by me. AI was used as a drafting and organizational tool to support the research and design process, not as a replacement for my own understanding or verification of the chemistry content.
