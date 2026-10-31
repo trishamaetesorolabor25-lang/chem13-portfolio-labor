@@ -1,0 +1,40 @@
+AI USE DISCLOSURE
+CHEM 13 - Organic Chemistry (Lecture) | Asynchronous Activity No. 2
+One Molecule, Four Representations
+
+Name: Trisha Mae T. Labor
+Section / Course: BSChE 2B
+Date: October 16, 2026
+
+AI tool used:
+Claude (Anthropic), via the Claude chat interface.
+
+What the AI tool was used for:
+1. Explaining the activity instructions and breaking the task into steps.
+2. Explaining how to use Ketcher (drawing chains and rings, adding heteroatoms,
+   setting bond orders, Clean Up, Calculated Values, and exporting PNG/SVG).
+3. Troubleshooting my Ketcher drawings from screenshots (for example, the
+   hydrogen label display, the OH display, and the double-bond placement in
+   caffeine).
+4. Suggesting condensed structural formulas and checking them against the
+   molecular formulas (atom counts and valences).
+
+
+What I did myself:
+- I drew all 10 bond-line structures in Ketcher and exported them myself.
+- I drew the Lewis structures, inserted the Ketcher exports into the cards,
+  assembled the portfolio, and exported the PDF.
+- I made the layout cards in PowerPoint presentation. 
+
+How I verified the AI-assisted content:
+- I counted the atoms in each representation and compared them with the given
+  molecular formula.
+- I checked valences (C = 4, H = 1, O = 2, N = 3) and the required lone pairs.
+- I compared the Lewis structure, condensed formula, and Ketcher bond-line
+  structure for identical connectivity (including para for acetaminophen and
+  ortho for aspirin) and confirmed the formula in Ketcher's Calculated Values.
+- I compared my work against the module and my course materials.
+
+I understand that I am responsible for the correctness of every submitted
+structure, formula, label, and interpretation.
+
